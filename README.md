@@ -19,10 +19,9 @@ A machine learning-based system designed to analyze user payment histories and i
 - Jupyter Notebooks
 
 ## Dataset
-The dataset used in this project is obtained from Kaggle.
+The dataset used in this project is obtained from Kaggle. The 2 datasets I played with to get the actual result of **98.84%** is:
   1. https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
   2. ⁠https://www.kaggle.com/datasets/kartik2112/fraud-detection
-  The 2 datasets I played with to get the actual result of **98.84%**
 
 ## Use Cases:
 - Financial institutions monitoring payment fraud
