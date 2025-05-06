@@ -1,6 +1,7 @@
 # Prevent-Pay
-## Fraud Detection Using Machine Learning
+An AI-Powered Proactive Credit Card Fraud Prevention System with Dynamic Risk Assessment and Multi-Gateway Integration
 
+## Fraud Detection Using Machine Learning
 A machine learning-based system designed to analyze user payment histories and intelligently predict whether the next transaction is likely to be fraudulent. This project leverages historical transaction data and behavior patterns to build a predictive model for real-time fraud detection.
 
 ## Key Features:
@@ -16,6 +17,12 @@ A machine learning-based system designed to analyze user payment histories and i
 - Pandas, NumPy
 - Matplotlib / Seaborn for visualization
 - Jupyter Notebooks
+
+## Dataset
+The dataset used in this project is obtained from Kaggle.
+  1. https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+  2. ⁠https://www.kaggle.com/datasets/kartik2112/fraud-detection
+  The 2 datasets I played with to get the actual result of **98.84%**
 
 ## Use Cases:
 - Financial institutions monitoring payment fraud
